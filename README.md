@@ -3,7 +3,7 @@
 <br/>Лабораторная работа №1
 <br/>Вариант - 11
 
-![variant](variant.PNG)
+![variant](variant.png)
 
 ![Screenshot](1.png)
 
